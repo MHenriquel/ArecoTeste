@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/11 23:30:32.661.pas,C:\Users\mayke\OneDrive\Documentos\RAD Studio\Projects\Unit1.pas=C:\Delphi\uPrincipal.pas</Transaction>
+    <Transaction>2018/10/11 23:30:32.661.dfm,C:\Users\mayke\OneDrive\Documentos\RAD Studio\Projects\Unit1.dfm=C:\Delphi\uPrincipal.dfm</Transaction>
+    <Transaction>2018/10/11 23:30:54.527.dproj,C:\Users\mayke\OneDrive\Documentos\RAD Studio\Projects\Project1.dproj=C:\Delphi\ArecoTeste\prjArecoTeste.dproj</Transaction>
+    <Transaction>2018/10/11 23:34:45.233.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uClasseDiversos.pas</Transaction>
+    <Transaction>2018/10/11 23:43:06.894.pas,C:\Delphi\ArecoTeste\uClasseDiversos.pas=C:\Delphi\ArecoTeste\uUtils.pas</Transaction>
+    <Transaction>2018/10/11 23:45:18.846.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uConnection.pas</Transaction>
+    <Transaction>2018/10/12 23:48:21.761.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uCategoria.pas</Transaction>
+    <Transaction>2018/10/13 18:15:38.564.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uServicos.pas</Transaction>
+    <Transaction>2018/10/13 18:18:42.151.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uCaracteristicaProduto.pas</Transaction>
+    <Transaction>2018/10/13 18:28:20.071.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uItem.pas</Transaction>
+    <Transaction>2018/10/13 22:34:36.359.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uCadServicos.pas</Transaction>
+    <Transaction>2018/10/13 22:34:36.359.dfm,C:\Delphi\ArecoTeste\Unit1.dfm=C:\Delphi\ArecoTeste\uCadServicos.dfm</Transaction>
+    <Transaction>2018/10/14 16:25:15.360.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\ufrmCadCategoria.pas</Transaction>
+    <Transaction>2018/10/14 16:25:15.379.dfm,C:\Delphi\ArecoTeste\Unit1.dfm=C:\Delphi\ArecoTeste\ufrmCadCategoria.dfm</Transaction>
+    <Transaction>2018/10/14 17:20:05.812.pas,C:\Delphi\ArecoTeste\Unit1.pas=C:\Delphi\ArecoTeste\uCadCaracteristicaProduto.pas</Transaction>
+    <Transaction>2018/10/14 17:20:05.813.dfm,C:\Delphi\ArecoTeste\Unit1.dfm=C:\Delphi\ArecoTeste\uCadCaracteristicaProduto.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uCaracteristicaProduto.pas"/>
+    <File Path="uCategoria.pas"/>
+    <File Path="uConnection.pas"/>
+    <File Path="uItem.pas"/>
+    <File Path="uServicos.pas"/>
+    <File Path="uUtils.pas"/>
+    <File Path="uCadServicos.pas"/>
+    <File Path="uCadServicos.dfm"/>
+    <File Path="uPrincipal.pas"/>
+    <File Path="uPrincipal.dfm"/>
+    <File Path="ufrmCadCategoria.pas"/>
+    <File Path="ufrmCadCategoria.dfm"/>
+    <File Path="uCadCaracteristicaProduto.pas"/>
+    <File Path="uCadCaracteristicaProduto.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
